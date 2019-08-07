@@ -3,6 +3,7 @@
 
 An app made using Vue.js and Unsplash API
 
+[Live Demo](https://srdjag.github.io/)
 
 ## Installation
 
