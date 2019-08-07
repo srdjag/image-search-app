@@ -9,7 +9,7 @@ An app made using Vue.js and Unsplash API
     # install dependencies
     npm install
     
-    # Get your Unsplash API key from [here](https://unsplash.com/developers)
+    # Get your Unsplash API key from here https://unsplash.com/developers
     
     # Create api.json in root and add API Key as
     {"API_KEY": "xxx"}
