@@ -1,7 +1,7 @@
 # Image Search APP
 ![vue+unsplash](https://i.imgur.com/x48X7KK.jpg)
 
-An app made using Vue.js and Unsplash API
+> An app made using Vue.js and Unsplash API
 
 [Live Demo](https://srdjag.github.io/)
 
@@ -18,3 +18,8 @@ An app made using Vue.js and Unsplash API
     npm run serve
      
     npm run build
+
+## Preview
+
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/53865216/62813261-14877700-bb0a-11e9-9034-ab4ea121ecea.gif)
